@@ -14,6 +14,8 @@
 
 A lightweight, web-based control panel for managing multiple Minecraft servers via Docker.
 
+![Dashboard](docs/screenshots/dashboard.png)
+
 ## Features
 
 - **Multi-Server Management** — Deploy, start, stop, and monitor multiple Minecraft servers from a single dashboard
@@ -107,8 +109,6 @@ Multi-stage build:
 3. `runtime` — Alpine Linux with Caddy + supervisor
 
 ## Screenshots
-
-> Commit screenshots to `docs/screenshots/` (or use GitHub drag-n-drop upload) and replace the paths below.
 
 ### Dashboard
 
